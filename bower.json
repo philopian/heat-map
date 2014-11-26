@@ -1,0 +1,20 @@
+{
+  "name": "heatMaps",
+  "version": "0.0.0",
+  "authors": [
+    "philopian <pdotwdot@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.1",
+    "leaflet": "~0.7.3"
+  }
+}
